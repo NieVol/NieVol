@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Cytometry in R - Starter Questions
+
+Location: Eindhoven, The Netherlands
+My Favorite Fluorophore: Alexa Fluor 488 or APC
+Previous Coding Experience: Some experience using R and Python for statistics
+What I Hope to Get From This Course: A clean and customizable way to analyse and visualize my Flow data. 
+
 <!--
 **NieVol/NieVol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
